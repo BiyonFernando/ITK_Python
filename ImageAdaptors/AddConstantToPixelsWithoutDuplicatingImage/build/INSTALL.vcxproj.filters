@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OneDrive - University of Moratuwa\Volume D\7 sem 2023\MI\ITK\ImageAdaptors\AddConstantToPixelsWithoutDuplicatingImage\build\CMakeFiles\25442d8445838d00c4e72c7eb93786c8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08A5C5A9-7094-34E3-A67B-E109B097FCBC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

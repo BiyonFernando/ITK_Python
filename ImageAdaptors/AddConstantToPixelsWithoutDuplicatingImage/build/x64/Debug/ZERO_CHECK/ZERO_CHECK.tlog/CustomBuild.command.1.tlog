@@ -1,0 +1,10 @@
+^D:\ONEDRIVE - UNIVERSITY OF MORATUWA\VOLUME D\7 SEM 2023\MI\ITK\IMAGEADAPTORS\ADDCONSTANTTOPIXELSWITHOUTDUPLICATINGIMAGE\BUILD\CMAKEFILES\25442D8445838D00C4E72C7EB93786C8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/OneDrive - University of Moratuwa/Volume D/7 sem 2023/MI/ITK/ImageAdaptors/AddConstantToPixelsWithoutDuplicatingImage/scr" "-BD:/OneDrive - University of Moratuwa/Volume D/7 sem 2023/MI/ITK/ImageAdaptors/AddConstantToPixelsWithoutDuplicatingImage/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/OneDrive - University of Moratuwa/Volume D/7 sem 2023/MI/ITK/ImageAdaptors/AddConstantToPixelsWithoutDuplicatingImage/build/AddConstantToPixelsWithoutDuplicatingImage.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OneDrive - University of Moratuwa\Volume D\7 sem 2023\MI\ITK\ImageAdaptors\AddConstantToPixelsWithoutDuplicatingImage\scr\Code.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OneDrive - University of Moratuwa\Volume D\7 sem 2023\MI\ITK\ImageAdaptors\AddConstantToPixelsWithoutDuplicatingImage\scr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8EC411A0-C9EF-3AFB-ADAE-E7C76345D919}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
